@@ -12,6 +12,8 @@ Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Chann
 
 
 # Planned Features
+These are the currently planned features for v1.0. New features for v1.0 may be requested at this time.
+
 1. Better blocks for the End portals.
 2. Update End crystal texture
 3. Compass points towards waypoints(beds or x, z coordinates)
@@ -67,7 +69,43 @@ Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Chann
 53. Auto-smelt enchantment
 54. Item Opposite than enderpearl (chorus-pearl)
 55. Rotten wood (breaks if it is stood on too long, triggered with redstone)
-56. Slime can merge with its fellow mobs (eventually create slimeboss)
+56. Slime can merge with its fellow mobs (eventually create slimeboss, drops charged slime)
+57. Charged Slime(Block) (bounces player around without pistons, slime killed by lightning drop it)
+58. Air conduit
+59. Beacon Updates(see Beacon Updates below)
+
+## Beacon Updates
++ The beacon relies more heavily on the block used
++ 4 tiers: iron, gold, emerald, and diamond. The beacon has 164 points to divide, based on how many blocks of one tier make up the structure, that tier gets the same amount of points.
++ Iron is offensive, gold is quality of life, emerald is environment and diamond is defensive
++ Each category has tiers, the tiers you get are based on the number of points each category has
++ To buy the tiers power you pay in nether stars
+### Environmental Powers (EMERALD Tier)
+Tiers:
+1. Repel all weather
+2. Fire cannot spread
+3. Plant life grows slightly faster
+4. All animals are calm, will grow and breed slightly faster
+5. Monsters can only spawn in light level 4 and down
+### Quality of Life Improvements (GOLD Tier)
+Tiers:
+1. Applies Speed
+2. Applies Jump boost
+3. Applies Haste
+4. Extension of maximum reach
+### Offensive (IRON Tier)
+Tiers:
+1. Applies Strength
+2. Faster attack cooldown
+3. Allied mobs get stronger and they are not able to be killed
+4. Beacon becomes a sentry with a laser cannon
+### Defensive (DIAMOND Tier)
+Tiers:
+1. Applies Resistance
+2. Shield (Arrows fail to penetrate 50% of the time, enderpearls do not penetrate)
+3. The shield now blocks people flying with elytra
+4. Mob griefing is disabled
+5. Intruders are given mining fatigue and can only place blocks every 5 seconds
 
 # Far off planned features
 + Custom download (you can choose and configure which features you want)
