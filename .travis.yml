@@ -8,7 +8,7 @@ before_install:
  - wget http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.0/forge-1.14.4-28.1.0-mdk.zip
  - unzip -n forge-1.14.4-28.1.0-mdk.zip
  - rm forge-1.14.4-28.1.0-mdk.zip
- - gradle tasks
+ - ./gradlew tasks
 install: ./gradlew prepareRuns
 script: ./gradlew build
 
