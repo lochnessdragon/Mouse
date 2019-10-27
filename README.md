@@ -75,6 +75,7 @@ These are the currently planned features for v1.0. New features for v1.0 may be 
 57. Charged Slime(Block) (bounces player around without pistons, slime killed by lightning drop it)
 58. Air conduit
 59. Beacon Updates(see Beacon Updates below)
+60. Block Rotater(item and redstone mechanic)
 
 ## Beacon Updates
 + The beacon relies more heavily on the block used
