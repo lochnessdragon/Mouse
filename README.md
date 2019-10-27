@@ -1,5 +1,5 @@
 # Mouse
-A Minecraft Mod that aims to improve Minecraft in tiny ways
+A Minecraft Mod that aims to improve Minecraft in tiny ways and be realatively compact
 Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Channel](https://www.youtube.com/user/SimplySarc) and other youtubers.
 
 
