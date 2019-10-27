@@ -7,4 +7,4 @@ build/
 changelog.txt
 bin/
 
-/.gradle/
+.gradle/
