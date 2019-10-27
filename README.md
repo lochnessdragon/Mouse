@@ -6,6 +6,7 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/lochnessdragon/Mouse)](https://img.shields.io/github/issues-pr/lochnessdragon/Mouse)
 [![Issues](https://img.shields.io/github/issues/lochnessdragon/Mouse)](https://img.shields.io/github/issues/lochnessdragon/Mouse)
 [![Repo Size](https://img.shields.io/github/repo-size/lochnessdragon/Mouse)](https://img.shields.io/github/repo-size/lochnessdragon/Mouse)
+[![Minecraft Tested](https://img.shields.io/badge/Tested%20in%20Minecraft-0%25-critical)](https://img.shields.io/badge/Tested%20in%20Minecraft-0%25-critical)
 
 A Minecraft Mod that aims to improve Minecraft in tiny ways and be relatively compact.
 Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Channel](https://www.youtube.com/user/SimplySarc) and other youtubers.
