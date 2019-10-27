@@ -12,7 +12,6 @@ apply plugin: 'net.minecraftforge.gradle'
 // Only edit below this line, the above code adds and enables the necessary things for Forge to be setup.
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
-apply plugin: 'jacoco'
 
 version = modMinecraftVersion + "-" + modVersion
 group = modGroup // http://maven.apache.org/guides/mini/guide-naming-conventions.html
@@ -90,7 +89,7 @@ dependencies {
     // Specify the version of Minecraft to use, If this is any group other then 'net.minecraft' it is assumed
     // that the dep is a ForgeGradle 'patcher' dependency. And it's patches will be applied.
     // The userdev artifact is a special name and will get all sorts of transformations applied to it.
-minecraft 'net.minecraftforge:forge:' + modMinecraftVersion + '-' + modForgeVersion
+    minecraft 'net.minecraftforge:forge:' + modMinecraftVersion + '-' + modForgeVersion
 
     // You may put jars on which you depend on in ./libs or you may define them like so..
     // compile "some.group:artifact:version:classifier"
@@ -146,12 +145,5 @@ publishing {
         maven {
             url "file:///${project.projectDir}/mcmodsrepo"
         }
-    }
-}
-
-jacocoTestReport {
-    reports {
-        xml.enabled true
-        html.enabled false
     }
 }
