@@ -1,0 +1,8 @@
+# GitIgnore for Mouse mod
+build/
+.settings/
+*.launch
+.project
+.classpath
+changelog.txt
+
