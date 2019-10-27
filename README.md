@@ -60,3 +60,6 @@ Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Chann
 54. Item Opposite than enderpearl (chorus-pearl)
 55. Rotten wood (breaks if it is stood on too long, triggered with redstone)
 56. Slime can merge with its fellow mobs (eventually create slimeboss)
+
+# Far off planned features
++ Custom download (you can choose and configure which features you want)
