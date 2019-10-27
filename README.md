@@ -1,4 +1,5 @@
 # Mouse
+[![Build](https://travis-ci.com/lochnessdragon/Mouse.svg?branch=master)](https://travis-ci.com/lochnessdragon/Mouse.svg?branch=master)
 [![HitCount](http://hits.dwyl.com/lochnessdragon/Mouse.svg)](http://hits.dwyl.com/lochnessdragon/Mouse)
 [![Version](https://img.shields.io/github/v/release/lochnessdragon/Mouse?include_prereleases)](https://img.shields.io/github/v/release/lochnessdragon/Mouse?include_prereleases)
 [![Latest Commit](https://img.shields.io/github/last-commit/lochnessdragon/Mouse)](https://img.shields.io/github/last-commit/lochnessdragon/Mouse)
