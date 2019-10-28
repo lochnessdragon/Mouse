@@ -8,3 +8,4 @@ changelog.txt
 bin/
 
 .gradle/
+/.gradle/
