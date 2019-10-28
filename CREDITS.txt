@@ -1,3 +1,7 @@
+Credits for the Mouse Mod:
+Author: lochnessdragon
+
+==========================================================================
 Minecraft Forge: Credits/Thank You
 
 Forge is a set of tools and modifications to the Minecraft base game code to assist 
