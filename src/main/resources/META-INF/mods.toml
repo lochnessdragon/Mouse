@@ -19,7 +19,7 @@ loaderVersion="[28,)" #mandatory (28 is current forge version)
 modId="mouse" #mandatory
 
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="${file.jarVersion}" #mandatory
+version="0.0.1" #mandatory ${file.jarVersion}
 
  # A display name for the mod
 displayName="Mouse Mod" #mandatory
@@ -41,9 +41,7 @@ authors="lochnessdragon" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-A mod that aims to improve Minecraft in small ways.
-
-Find more on the wiki at github.com
+A mod that aims to improve minecraft in small ways.\nFind more on the wiki at: https://github.com/lochnessdragon/Mouse/wiki
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.mouse]] #optional
