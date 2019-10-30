@@ -1,4 +1,4 @@
-package com.lochnessdragon.Mouse;
+package com.lochnessdragon.mouse;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
