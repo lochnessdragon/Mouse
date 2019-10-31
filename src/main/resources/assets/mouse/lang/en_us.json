@@ -1,3 +1,5 @@
 {
-	"item.mouse.cheese": "Cheese"
+	"item.mouse.cheese": "Cheese",
+	
+	"block.mouse.cheese_block": "Cheese Block"
 }
