@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 
 import com.lochnessdragon.mouse.config.CheeseConfig;
 import com.lochnessdragon.mouse.config.Config;
+import com.lochnessdragon.mouse.end.RevisedEndPortal;
 import com.lochnessdragon.mouse.init.BlockList;
 import com.lochnessdragon.mouse.init.ItemList;
 
@@ -20,6 +21,7 @@ import net.minecraft.potion.Effects;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.event.entity.EntityTravelToDimensionEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
@@ -62,7 +64,7 @@ public class MouseMod {
         // do something that can only be done on the client
         LOGGER.info("Got game settings {}", event.getMinecraftSupplier().get().gameSettings);
     }
-	
+    
 	public static ResourceLocation location(String name) {
 		return new ResourceLocation(MODID + ":" + name);
 	}
