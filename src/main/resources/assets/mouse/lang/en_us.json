@@ -1,5 +1,8 @@
 {
 	"item.mouse.cheese": "Cheese",
 	
+	"item.mouse.iron_golem_spawn_egg": "Iron Golem",
+	"item.mouse.snow_golem_spawn_egg": "Snow Golem",
+	
 	"block.mouse.cheese_block": "Cheese Block"
 }
