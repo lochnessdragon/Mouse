@@ -12,7 +12,6 @@
 A Minecraft Mod that aims to improve Minecraft in tiny ways and be relatively compact.
 Many ideas were originally thought of by SimplySarc: [SimplySarc's Youtube Channel](https://www.youtube.com/user/SimplySarc) and other youtubers.
 
-
 # Planned Features
 These are the currently planned features for v1.0. New features for v1.0 may be requested at this time.
 
@@ -112,3 +111,12 @@ Tiers:
 
 # Far off planned features
 + Custom download (you can choose and configure which features you want)
+
+# Next version features(v0.2)
+1. Spawn eggs for snow and iron golems
+2. Snowballs and iron ingots heal their respective golem
+3. Iron golems should spawn more often, so they can protect more villagers. (Rethink how golems appear)
+4. Type of fish you use should decide cat type when breeding
+5. Cats and Ocelots can be lured into a boat
+6. Snow golems should have random faces
+
