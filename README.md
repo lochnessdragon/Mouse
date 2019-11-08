@@ -116,7 +116,7 @@ Tiers:
 1. Spawn eggs for snow and iron golems
 2. Snowballs and iron ingots heal their respective golem
 3. Iron golems should spawn more often, so they can protect more villagers. (Rethink how golems appear)
-4. Type of fish you use should decide cat type when breeding
-5. Cats and Ocelots can be lured into a boat
+4. Ocelots have updated behaviors(fish and hunt mechanics)
 6. Snow golems should have random faces
+7. Swamps should have a different wood.
 

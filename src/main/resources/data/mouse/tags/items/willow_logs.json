@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	
+	"values":
+	[
+		"mouse:willow_log",
+		"mouse:willow_wood",
+		"mouse:stripped_willow_log",
+		"mouse:stripped_willow_wood"
+	]
+}

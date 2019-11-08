@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+	
+		{ "item": "mouse:cheese_block" }
+	
+	],
+	"result":{ 
+		"count": 9,
+		"item": "mouse:cheese" 
+	}
+}

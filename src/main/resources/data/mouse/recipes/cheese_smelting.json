@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "minecraft:milk_bucket" },
+	"result": "mouse:cheese",
+	"experience": 2.3,
+	"cookingtime": 100
+}

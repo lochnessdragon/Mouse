@@ -4,5 +4,13 @@
 	"item.mouse.iron_golem_spawn_egg": "Iron Golem Spawn Egg",
 	"item.mouse.snow_golem_spawn_egg": "Snow Golem Spawn Egg",
 	
-	"block.mouse.cheese_block": "Cheese Block"
+	"block.mouse.cheese_block": "Cheese Block",
+	
+	"block.mouse.willow_log": "Willow Log",
+	"block.mouse.willow_wood": "Willow Wood",
+	"block.mouse.willow_planks": "Willow Planks",
+	"block.mouse.willow_leaves": "Willow Leaves",
+	"block.mouse.stripped_willow_log": "Stripped Willow Log",
+	"block.mouse.stripped_willow_wood": "Stripped Willow Wood",
+	"block.mouse.willow_sapling": "Willow Sapling"
 }

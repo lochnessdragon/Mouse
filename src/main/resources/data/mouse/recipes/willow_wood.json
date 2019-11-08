@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "mouse:willow_log"
+    }
+  },
+  "result": {
+    "item": "mouse:willow_wood",
+    "count": 3
+  }
+}

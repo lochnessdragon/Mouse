@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "mouse:blocks/leaves_willow"
+    }
+}
